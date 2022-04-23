@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="login" skipped="0" tests="1" time="10.18" timestamp="2022-04-23 05:36:30"><testcase name="login successfully"><error message="There is no field type: email_login" type="java.lang.Exception">There is no field type: email_login</error><system-err>There is no field type: email_login&#13;
+Tasks.InputText.onField(InputText.java:23)&#13;
+klikDokterTest.stepDefinitions.loginStepDefinition.inputEmail(loginStepDefinition.java:34)&#13;
+✽.User input email(file:///C:/Users/ratna/IdeaProjects/KlikDokter-Test/src/test/resources/Features/login.feature:8)&#13;
+</system-err></testcase></testsuite>

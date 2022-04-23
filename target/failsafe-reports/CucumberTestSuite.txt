@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: CucumberTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 12.6 s <<< FAILURE! - in CucumberTestSuite
+login.login successfully  Time elapsed: 10.356 s  <<< ERROR!
+java.lang.Exception: There is no field type: email_login
+
